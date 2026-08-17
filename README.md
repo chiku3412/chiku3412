@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Chirag Patel
 
-<!--
-**chiku3412/chiku3412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Angular Developer | UI Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building modern, responsive, and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on Angular Projects
+* 🌱 Learning Advanced Angular & Performance Optimization
+* 💼 Interested in Frontend Development
+* 🎯 Focused on Clean UI/UX and Scalable Applications
+* ⚡ Fun fact: I love turning ideas into web applications
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiku3412&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiku3412&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🍔 Food Corner
+
+Online food ordering website built with Angular.
+
+### 🎉 Event Management
+
+Event booking and management platform.
+
+### 🛒 E-Commerce Store
+
+Modern shopping website with product management and checkout.
+
+### 🎮 Game Zone
+
+Collection of fun browser games built using Angular.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/chiku3412">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
